@@ -1,0 +1,39 @@
+#calculator {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 40vh;
+	padding: 10px 30px 30px;
+	background-color: aquamarine;
+	border-radius: 10px;
+	margin-top: 50px;
+	flex-direction: column;
+}
+
+#result {
+    margin-top: 15px;
+    color: navy;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.numbers {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+	margin: 10px;
+}
+
+.images {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+	margin: 20px;
+}
+
+img {
+	width: 40%;
+}

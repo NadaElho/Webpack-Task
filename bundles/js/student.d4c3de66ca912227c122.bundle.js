@@ -1,0 +1,1 @@
+(()=>{var a=new function(a,e){this.name=a,this.age=23,this.name=a,this.age=23}("Nada",23);console.log(a)})();
